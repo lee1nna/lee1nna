@@ -8,7 +8,7 @@
 </br>
 I am interested in and studying interactive web pages.✨
 </br>
-I like to travel and take pictures. 🛫📸
+I enjoy traveling and taking pictures.  🛫📸
 </br>
 </p>
 </br>
