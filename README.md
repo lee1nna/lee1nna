@@ -36,10 +36,10 @@ I like to travel and take pictures. 🛫📸
 </br>
 <div align=center>
   
-![lee1nna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee1nna&show_icons=true&theme=merko)
+![lee1nna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee1nna&show_icons=true&theme=react)
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1nna&layout=compact&theme=merko&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee1nna&layout=compact&theme=react&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
