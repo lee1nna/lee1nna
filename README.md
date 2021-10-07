@@ -28,7 +28,7 @@ I like to travel and take pictures. 🛫📸
 <h3 align="center" ><b>💞 Me 💞</b></h3>
 <p align="center">
 <a href="https://velog.io/@lee1nna" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="dlgkssk0209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dlgkssk0209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/e_hnna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
