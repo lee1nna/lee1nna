@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=300&text=Hanna%20Lee&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=300&text=Lee%20Hanna&animation=fadeIn)
 
 <p align="center">
 👋 Hi there! I'm Front-End developer.
